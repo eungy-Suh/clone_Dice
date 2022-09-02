@@ -1,1 +1,3 @@
 # clone_Dice
+
+.test
